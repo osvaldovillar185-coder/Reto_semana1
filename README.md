@@ -17,12 +17,10 @@ El programa realiza lo siguiente:
 ## Ejemplo de entrada
 
 123,45.67,-89,abc123,-45.8xyz
-10,20,30
 
 ## Ejemplo de salida
 
 157
-60
 
 ## Cómo ejecutar el programa
 
